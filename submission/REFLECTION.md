@@ -64,7 +64,7 @@ Phân tích tách biệt hai đường cong implicit reward: trong khoảng 80 b
 
 **Win/loss/tie summary:** SFT+DPO wins 1/8, ties 7/8, loses 0/8
 
-**Judge used:** manual rubric
+**Judge used:** gpt-4o-mini
 
 ---
 
