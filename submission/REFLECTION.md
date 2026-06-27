@@ -14,7 +14,7 @@
 | GPU | Free Colab Tesla T4 16GB |
 | CUDA / driver | CUDA 12.8, Torch 2.10.0+cu128 |
 | Base model | unsloth/Qwen2.5-3B-bnb-4bit |
-| SFT dataset slice | 5CD-AI/Vietnamese-alpaca-cleaned · 1000 samples · 1 epoch |
+| SFT dataset slice | bkai-foundation-models/vi-alpaca · 1000 samples · 1 epoch |
 | Preference dataset slice | argilla/ultrafeedback-binarized-preferences-cleaned · 2000 pairs · 1 epoch |
 | `COMPUTE_TIER` env | T4 |
 | Total cost | $0 (free Colab) |
